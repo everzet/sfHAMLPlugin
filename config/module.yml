@@ -1,0 +1,3 @@
+all:
+  view_class:           sfHAML
+  partial_view_class:   sfHAML
