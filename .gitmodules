@@ -1,0 +1,3 @@
+[submodule "lib/vendor/phphaml"]
+	path = lib/vendor/phphaml
+	url = git://github.com/everzet/phphaml.git
